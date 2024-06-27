@@ -1,4 +1,11 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Yin</h1>
+<h3 align="center">I am a person passionate about programming languages.</h3>
+
+### Connect with me
+<a href="mailto:sky06456@gmail.com">
+      <img src="[https://img.shields.io/badge/-mail-red?style=for-the-badge&logo=gmail&logoColor=white](https://cdn2.iconfinder.com/data/icons/zohanimasi-bundle-2/512/Gmail-512.png)"/>
+  </a>
+
 
 <!--
 **wang-yin/wang-yin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
