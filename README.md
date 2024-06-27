@@ -10,7 +10,7 @@
 </div>
 
 
-🧰<h3>Languages and Tools:</h3>
+<h3>🔧Languages:</h3>
     <a href="https://getbootstrap.com" target="_blank"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> 
@@ -24,10 +24,13 @@
     <a href="https://expressjs.com" target="_blank"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" 
       alt="express" width="40" height="40"/> </a>
-    <a href="https://www.python.org" target="_blank"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c++/cpp-original.svg" alt="c++" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+<h3>🧰Tools:</h3>
+    <a href="https://code.visualstudio.com/" target="_blank"> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="40" height="40"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> 
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <!--
 **wang-yin/wang-yin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
