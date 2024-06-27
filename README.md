@@ -3,7 +3,7 @@
 
 ### Connect with me
 <a href="mailto:sky06456@gmail.com">
-      <img src="[https://img.shields.io/badge/-mail-red?style=for-the-badge&logo=gmail&logoColor=white](https://cdn2.iconfinder.com/data/icons/zohanimasi-bundle-2/512/Gmail-512.png)"/>
+      <img src="[[https://img.shields.io/badge/-mail-red?style=for-the-badge&logo=gmail&logoColor=white]([https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://cdn2.iconfinder.com/data/icons/zohanimasi-bundle-2/512/Gmail-512.png](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white))"/>
   </a>
 
 
