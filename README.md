@@ -26,6 +26,8 @@
       alt="express" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+    <a href="https://www.mongodb.com/" target="_blank"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> </a>
 <h3>🧰Tools:</h3>
     <a href="https://code.visualstudio.com/" target="_blank"> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="40" height="40"/> </a>
