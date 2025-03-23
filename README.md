@@ -1,3 +1,4 @@
+<img src="https://komarev.com/ghpvc/?username=wang-yin&color=red"/>
 <h1 align="center">Hi 👋, I'm Yin</h1>
 <h3 align="center">I am a person passionate about programming languages.</h3>
 
